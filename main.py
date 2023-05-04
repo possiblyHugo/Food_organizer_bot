@@ -59,17 +59,4 @@ async def on_message(message):
         await response_message.react()
         await response_message.remove()
 
-
-# Commands
-@commands.check_any(commands.has_role(config.user_settings['allowed_role']), is_admin()) 
-@bot.command()
-async def new_week(ctx):
-    finalize_channel = bot.get_channel(config.message_settings['finalize_channel_id'])
-    finalize_channel.purge(limit=config.bot_settings['purge_amount'])
-
-        
-
-
-
-
 bot.run(config.bot_settings['token'])

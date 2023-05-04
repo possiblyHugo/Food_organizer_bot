@@ -11,3 +11,7 @@ user_settings = dict(
 message_settings = dict(
     suggestions_channel = "meals"
 )
+
+reaction_settings = dict(
+    emojis = ['👍', '👎']
+)

@@ -1,6 +1,7 @@
 bot_settings = dict(
     token = 'MTEwMzQxMTk1MTc2NzM5MjI3Ng.GOZaRZ.pDDlJe1YwxkkaocmWtTsnLQLYi5x85W6FtZlFU',
-    prefix = '!'
+    prefix = '!',
+    purge_amount = 100
 )
 
 user_settings = dict(
@@ -9,7 +10,8 @@ user_settings = dict(
 )
 
 message_settings = dict(
-    suggestions_channel = "meals"
+    suggestions_channel = "meals",
+    finalize_channel_id = 1102301729434898563
 )
 
 reaction_settings = dict(

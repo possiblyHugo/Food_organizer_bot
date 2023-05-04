@@ -28,6 +28,9 @@ Once the bot is running, suggestions sent within the **suggestions_channel** wil
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/possiblyHugo/Food_organizer_bot/master/LICENSE) file for more details
 
+## Example
+
+![example image](images/bot_example.jpg)
 
 ## Acknowledgements
  * Thanks to the developers of the Discord.py library for making it easy to build Discord bots in Python.

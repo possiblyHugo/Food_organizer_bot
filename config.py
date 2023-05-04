@@ -1,11 +1,11 @@
 bot_settings = dict(
-    token = '***REMOVED***',
+    token = 'Token_here',
     prefix = '!',
     purge_amount = 100
 )
 
 user_settings = dict(
-    allowed_role = ***REMOVED***,
+    allowed_role = 1102301293999046776,
     admin_allowed = True
 )
 

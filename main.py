@@ -2,7 +2,7 @@ import discord
 import config
 from discord.ext import commands
 
-description = '''A discord bot that assists families decide on what foods to eat during the week. This works better in hand with the paprika app.'''
+description = 'A discord bot that assists families decide on what foods to eat during the week. This works better in hand with the paprika app.'
 
 
 intents = discord.Intents.default()

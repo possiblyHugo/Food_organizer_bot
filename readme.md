@@ -1,5 +1,5 @@
 # Installation
-The Food Organizer Bot is a Discord bot that helps families vote on what to eat during the week absed on family suggestions. The bot is written in Python and uses the Discord.py library.
+The Food Organizer Bot is a Discord bot that helps families vote on what to eat during the week based on family suggestions. The bot is written in Python and uses the Discord.py library.
 
 ## Getting Started
 To use the Family Organizer Bot, you will need to have Python 3.6 or higher installed on your machine. You willa lso need to create a Discord bot and obtain its token. Instructions for creating a bot and obtaining its token can be found in the [Discord Documentation](https://discord.com/developers/docs/intro).
